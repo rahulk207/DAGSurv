@@ -12,10 +12,10 @@ This code requires the following key dependencies:
 - torch==1.6.0
 - pycox==0.2.1
 
-There are a number of hyper-parameters present in the script which can be easily changed. 
-
 ## Usage
 To train the DAGSurv model, please run the *main.py* as `python main.py`
+
+There are a number of hyper-parameters present in the script which can be easily changed. 
 
 ## Experiments
 We evaluated our approach on two real-world and two synthetic datasets; and used time-dependent Concordance Index(C-td) as our evaluation metric.
