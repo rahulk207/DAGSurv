@@ -27,7 +27,7 @@ We evaluated our approach on two real-world and two synthetic datasets; and used
 ### Time-Dependent Concordance Index(C-td)
 We employ the time-dependent concordance index (CI) as our evaluation
 metric since it is robust to changes in the survival risk over time.
-Mathematically it is given as
+Mathematically it is given as,
 
 ![plot](./c-td.png)
 
