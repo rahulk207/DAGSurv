@@ -29,4 +29,7 @@ We evaluated our approach on two real-world and two synthetic datasets; and used
 ### Results
 Here, we present our results on the two real-world datasets mentioned above - 
 
-## References
+## Code References
+
+[1] Yue Yu, Jie Chen, Tian Gao, Mo Yu. "DAG-GNN: DAG Structure Learning with Graph Neural Networks."
+[2] 
