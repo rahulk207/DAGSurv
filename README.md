@@ -41,5 +41,5 @@ Here, we present our results on the two real-world datasets mentioned above -
 
 ## Code References
 
-[1] Yue Yu, Jie Chen, Tian Gao, Mo Yu. "DAG-GNN: DAG Structure Learning with Graph Neural Networks."
-[2] 
+[1] Yue Yu, Jie Chen, Tian Gao, Mo Yu. "DAG-GNN: DAG Structure Learning with Graph Neural Networks.".
+[2] Changhee Lee, William R. Zame, Jinsung Yoon, Mihaela van der Schaar. "DeepHit: A Deep Learning Approach to Survival Analysis with Competing Risks".
