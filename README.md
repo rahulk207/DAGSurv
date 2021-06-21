@@ -21,8 +21,8 @@ There are a number of hyper-parameters present in the script which can be easily
 We evaluated our approach on two real-world and two synthetic datasets; and used time-dependent Concordance Index(C-td) as our evaluation metric.
 
 ### Real-World Datasets
-- METABRIC
-- GBSG
+- METABRIC : The Molecular Taxonomy of Breast Cancer International Consor- tium (METABRIC) is a clinical dataset which consists of gene expressions used to determine different subgroups of breast cancer. We consider the data for 1,904 patients with each patient having 9 covariates. Furthermore, out of the total 1,904 patients, 801 (42.06%) are right-censored, and the rest are deceased (event).
+- GBSG : Rotterdam and German Breast Cancer Study Group (GBSG) contains breast-cancer data from Rotterdam Tumor bank. The dataset consists of 2,232 patients out of which 965 (43.23%) are right-censored, remaining are deceased (event), and there were no missing values. In total, there were 7 features per patient.
 
 ### Time-Dependent Concordance Index(C-td)
 
