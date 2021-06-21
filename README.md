@@ -29,13 +29,7 @@ We employ the time-dependent concordance index (CI) as our evaluation
 metric since it is robust to changes in the survival risk over time.
 Mathematically it is given as
 
-$$\begin{aligned}
-  C_{td} &= P\left(F(t^{(i)}|x^{(i)})>F(t^{(i)}|x^{(j)})|t^{(i)} < t^{(j)}\right) \nonumber\\
-  &\approx \frac{\sum_{i \neq j} R_{i,j}\mathbb{1}\left(F(t^{(i)}|x^{(i)})>F(t^{(i)}|x^{(j)})\right)}{\sum_{i \neq j} R_{i,j}},\end{aligned}$$
-
-where $\mathbb{1}\left(.\right)$ is the indicator function and
-$R_{i,j} \triangleeq\mathbb{1}\left(t^{(i)} < t^{(j)}\right)$, i.e., we
-use an empirical estimate of the time-dependent CI as our metric.
+![plot](./c-td.png)
 
 
 ### Results
