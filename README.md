@@ -34,6 +34,12 @@ Mathematically it is given as,
 
 ### Results
 Here, we present our results on the two real-world datasets mentioned above - 
+| Model/Experiment | METABRIC  | GBSG |
+|--------|----------------|----------|
+| DAGSurv | 48.70 ± 1.84% | 63.11 ± 0.92% | 
+| DeepHit | 47.24 ± 0.65% | 61.87 ± 0.93% | 
+| DeepSurv| 46.30 ± 0.29%    |66.3 ± 0.21% |
+| CoxTime | 49.12 ± 0.30%  | 66.97 ± 0.3% |
 
 ## Code References
 
