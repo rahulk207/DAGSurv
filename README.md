@@ -37,7 +37,7 @@ Here, we present our results on the two real-world datasets mentioned above -
 | Model/Experiment | METABRIC  | GBSG |
 |--------|----------------|----------|
 | DAGSurv | **0.7323** ± 0.0056 | **0.6892** ± 0.0023 | 
-| DeepHit | 0.7309 ± 0.0047 | 60.6602 ± 0.0026 | 
+| DeepHit | 0.7309 ± 0.0047 | 0.6602 ± 0.0026 | 
 | DeepSurv| 0.6575 ± 0.0021    |0.6651 ± 0.0020 |
 | CoxTime | 0.6679 ± 0.0020  | 0.6687 ± 0.0019 |
 
