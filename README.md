@@ -4,7 +4,7 @@ Survival analysis (SA) is a well-known statistical technique for the study of te
 All the existing technique for survival analysis assume that the covariates are statistically independent.
 To integrate the cause-effect relationship between covariates and the time-to-event outcome, we present to you DAGSurv which encodes the causal DAG structure into the analysis of temporal data and eventually leads to better results (higher Concordance Index).
 
-![plot](./model.png)
+![plot](./IntroductionFig.png)
 
 ## Dependencies
 This code requires the following key dependencies:
